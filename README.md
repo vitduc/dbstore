@@ -4,8 +4,8 @@ HTML, CSS, BOOSTRAP 3, JQUERY, AJAX
 PHP + MySQL + MVC Laravel Framework
 
 - Đường dẫn vào trang quản trị /admin
- + tài khoản admin : TK: user1@gmail.com , MK : 1
- + tài khoản demo khách hàng : TK: admin@gmail.com, MK: 1
+ + Tài khoản admin : TK: user1@gmail.com , MK : 1
+ + Tài khoản demo khách hàng : TK: admin@gmail.com, MK: 1
 
 
 Chức năng:
