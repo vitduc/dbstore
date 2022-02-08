@@ -19,7 +19,7 @@ admin:
 -	Quản lý đơn hàng (Xem chi tiết đơn hàng, Trạng thái đơn hàng, Hủy đơn, Lưu đơn)
 -	Quản lý mã giảm giá (Thêm, Sửa, Xóa)
 -	Quản lý thông tin khách hàng (Xem, Xóa)
--	
+
 user: 
 -   Đăng ký, đăng nhập để trở thành thành viên
 -	Hiển thị và bán mọi loại sản phẩm, khuyến mãi, bán chạy….
